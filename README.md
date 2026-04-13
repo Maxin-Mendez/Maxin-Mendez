@@ -70,10 +70,17 @@ I'm a Systems Engineering student. I'm proficient in the programming languages â
 
 ## &nbsp;Contact with me on
   <span>
-    <a target="_blank" href="https://www.linkedin.com/in/ahmadshaikhk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-&emsp;
-<a target="_blank" href="Maximusmendezgonzalez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
+    <a target="_blank" href="https://www.linkedin.com/in/maxin-mendez-04436725b/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'>
+    </a>&emsp;
+    
+  <a target="_blank" href="Maximusmendezgonzalez@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt='gmail'></img>
+  </a>&emsp;
+
+<a target="_blank" href="https://github.com/Maxin-Mendez">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt='github'>
+</a>&emsp;
   </span>
 
 
