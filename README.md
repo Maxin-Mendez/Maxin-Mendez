@@ -74,7 +74,7 @@ I'm a Systems Engineering student. I'm proficient in the programming languages â
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'>
     </a>&emsp;
     
-  <a href="Maximusmendezgonzalez@gmail.com">
+  <a href="mailto:Maximusmendezgonzalez@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt='gmail'></img>
   </a>&emsp;
 
