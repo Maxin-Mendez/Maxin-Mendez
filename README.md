@@ -68,7 +68,7 @@ I'm a Systems Engineering student. I'm proficient in the programming languages â
 </span>
 
 
-## &nbsp;Contact with me on
+### &nbsp;Contact with me on
   <span>
     <a href="https://www.linkedin.com/in/maxin-mendez-04436725b/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt='linkedin'>
@@ -82,6 +82,23 @@ I'm a Systems Engineering student. I'm proficient in the programming languages â
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt='github'>
 </a>&emsp;
   </span>
+
+
+  <div align="center">
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Maxin-Mendez&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Maxin-Mendez)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Maxin-Mendez&theme=material-palenight)](https://github.com/Maxin-Mendez)
+
+   <a href="https://github.com/Maxin-Mendez"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maxin-Mendez&theme=dracula&hide_border=true"  width="520" alt="Maxin-Mendez"/></a>
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 
 
